@@ -1,92 +1,150 @@
 <div align="center">
 
+<!-- Terminal Bar Window -->
+<p align="center">
+  <img src="https://img.shields.io/badge/●%20●%20●-root%40archlinux%3A~-050811?style=flat-square&color=050811&labelColor=050811" alt="terminal bar" />
+</p>
+
+<!-- Primary Cyan Monospace Terminal Typing Banner -->
 <a href="https://github.com/geromari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=geromari;root%40archlinux%3A~%24%20whoami%3B%3E_%20geromari%3B%5B%2B%5D%20ACCESS%20GRANTED%20//%20geromari" alt="geromari terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=geromari;root%40archlinux%3A~%24%20whoami%3B%3E_%20geromari%3B%5B%2B%5D%20ACCESS%20GRANTED%20%3A%3A%20ROOT%3Bgeromari" alt="geromari terminal typing" />
 </a>
 <br/>
+<!-- Secondary Green Monospace Status Line -->
 <a href="https://github.com/geromari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=650&height=35&lines=Creator%20of%20USTASY%20%7C%20Full-Stack%20%26%20Systems%20Hacker%3BArch%20Linux%20Power%20User%20%7C%20C%20%7C%20Python%20%7C%20TypeScript%3B3D%20Orbital%20Physics%20%26%20Spacecraft%20Simulations%3BZero-Knowledge%20Cryptography%20%26%20System%20Defense%3BKernel%20Status%3A%20Optimal%20%7C%20Root%20Access%3A%20Active" alt="geromari cyber status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=36&lines=%3E_Creator_of_USTASY_%7C_AI-Driven_Examination_Platform;%3E_Arch_Linux_Power_User_%7C_C_%7C_Python_%7C_TypeScript;%3E_Orbital_Mechanics_%26_3D_Physics_Simulation_Engineer;%3E_Zero-Knowledge_Security_%26_System_Hardening;%3E_All_Systems_Nominal_%E2%96%88" alt="geromari status typing" />
 </a>
 
+<br/>
+
+<!-- Cyber Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE-ONLINE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=050811" alt="Node Online" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SECURITY-ROOT_PRIVILEGES-38BDF8?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=050811" alt="Root Privileges" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ENCRYPTION-ZERO_KNOWLEDGE-FF0055?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=050811" alt="Zero Knowledge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/KERNEL-6.12.x--HARDENED-7928CA?style=for-the-badge&logo=linux&logoColor=white&labelColor=050811" alt="Kernel" />
+</p>
+
+<!-- Transmission Uplinks -->
 <p align="center">
   <a href="https://t.me/yashnarv1c">
-    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/UPLINK-TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=050811" alt="Telegram" />
   </a>
   &nbsp;
   <a href="mailto:zakariyoqarshiyev5@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/DISPATCH-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050811" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/geromari">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/MAINFRAME-GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=050811" alt="GitHub" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SECURITY-ROOT_ACTIVE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" alt="Root Active" />
 </p>
 
 </div>
 
 ---
 
-```bash
-┌──(root㉿archlinux)-[~]
-└─$ fastfetch --profile geromari
+```console
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  ██████╗ ███████╗██████╗  ██████╗ ███╗   ███╗ █████╗ ██████╗ ██╗             │
+│ ██╔════╝ ██╔════╝██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██║             │
+│ ██║  ███╗█████╗  ██████╔╝██║   ██║██╔████╔██║███████║██████╔╝██║             │
+│ ██║   ██║██╔══╝  ██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗██║             │
+│ ╚██████╔╝███████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██║             │
+│  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝             │
+└──────────────────────────────────────────────────────────────────────────────┘
 
-  /\_/\       USER ......... geromari (Zakariyo Qarshiyev)
- ( o.o )      OS ........... Arch Linux x86_64 [Kernel: 6.12.x-zen]
-  > ^ <       UPTIME ....... 24/7 Coding, Simulating & Building
-              SHELL ........ zsh / bash [Alacritty / Kitty]
-              WM/DE ........ Hyprland [Keyboard-Driven Workflow]
-              FLAGSHIP ..... USTASY (AI-Powered Examination & Learning Platform)
-              SYSTEMS ...... C, Python 3.14, FastAPI, TypeScript, Next.js 16, Three.js
-              DEFENSE ...... Zero-Knowledge Architecture, Shannon Entropy Engines
-              MISSION ...... High-Performance Systems, 3D Physics & Autonomous Bots
-              STATUS ....... [ 0x00 ] ALL_SYSTEMS_OPERATIONAL :: ROOT_GRANTED
+[root@archlinux ~]# fastfetch --profile geromari
+
+       /\_/\        OPERATOR ....... geromari (Zakariyo Qarshiyev)
+      ( o.o )       NODE ........... archlinux-station [x86_64]
+       > ^ <        KERNEL ......... 6.12.x-hardened-zen [Rolling Release]
+                    ENVIRONMENT .... Hyprland / Alacritty / Neovim [Tiling / Key-Driven]
+                    PRIVILEGE ...... [ ROOT / SUPERUSER ACCESS GRANTED ]
+                    FLAGSHIP ....... USTASY — Next-Gen AI Examination Platform
+                    CORE DISCIPLINES Systems Programming, 3D Orbital Mechanics, AI Defense
+                    SECURITY ....... Zero-Knowledge Architecture & Entropy Auditing
+                    LOCATION ....... Uzbekistan
+                    STATUS ......... [ OK ] ALL DAEMONS ARMED & OPERATIONAL
 ```
 
 ---
 
-### ⚡ [ 0x01 ] CLASSIFIED TARGET: USTASY (FLAGSHIP)
+### ⚡ [ DIRECTIVE 0x01 ] TOP SECRET CLASSIFIED TARGET: USTASY
 
 ```text
-[TARGET_NAME] .... USTASY — Next-Gen AI Examination & Learning Ecosystem
-[DEPLOYMENT] ..... Production-Ready Architecture (Docker / PostgreSQL 16)
-[CORE_PURPOSE] ... O'zbekiston milliy sertifikati va barcha turdagi kirish imtihonlariga tayyorgarlik ko'rish uchun sun'iy intellektga asoslangan milliy test va ta'lim platformasi.
-[STACK_PAYLOAD] .. Next.js 16 (App Router) | React 19 | TypeScript | Tailwind CSS v4 | FastAPI (Python 3.14) | PostgreSQL 16 | SQLAlchemy
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│ [!] CLASSIFIED DOSSIER // PROJECT CODE: USTASY                                           │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+  CODENAME ....... USTASY
+  CLASSIFICATION . National AI-Powered Online Examination & Adaptive Learning Platform
+  DEPLOYMENT ..... Production Containerized (Docker / PostgreSQL 16)
+  MISSION ........ O'zbekiston milliy sertifikati va barcha kirish imtihonlariga
+                   tayyorgarlik ko'rish uchun yuqori tezlikdagi sun'iy intellekt ekotizimi.
+  TECH PAYLOAD ... [Frontend] Next.js 16 (App Router) + React 19 + TypeScript + Tailwind CSS v4
+                   [Backend]  FastAPI (Python 3.14) + SQLAlchemy + Pydantic v2
+                   [Database] PostgreSQL 16 (psycopg3) + Docker + Containerization
+                   [Hosting]  Render / Vercel Production Environment
+
+  SUBSYSTEM CAPABILITIES:
+  ├── [01] PRACTICE_MATRIX ... Real vaqtda javoblarni algoritmik tekshirish va AI tushuntirishlari.
+  ├── [02] EXAM_SIMULATOR .... Qat'iy vaqt nazorati, haqiqiy test stress muhiti va avto-topshirish.
+  ├── [03] NEURAL_METRICS .... Mavzular kesimida aniqlik foizlari va zaif bo'shliqlarni aniqlash.
+  ├── [04] ADAPTIVE_REMEDY ... O'quvchining zaif mavzulari ustida maqsadli ishlash uchun AI testlar.
+  └── [05] ADMIN_MAINFRAME ... Savollar bazasi (CRUD), ko'p parametrli testlar va kohort monitoringi.
 ```
 
-- 🎓 **Practice Mode (Amaliyot):** Algoritmik tezkor tekshiruv va har bir savol bo'yicha sun'iy intellekt tushuntirishlari.
-- ⏱️ **Exam Simulation Mode (Haqiqiy Imtihon):** Qat'iy vaqt nazorati, real imtihon stress muhiti va avtomatik topshirish (auto-submit).
-- 📊 **Precision Analytics & Diagnostics:** Savollar bo'yicha aniqlik, mavzular kesimida foizlar va zaif bilimlarni chuqur tahlil qilish.
-- 🤖 **AI-Driven Remediation:** Diagnostika qilingan bo'shliqlarga qarab shaxsiylashtirilgan takrorlash va maxsus test topshiriqlari.
-- 🛡️ **Enterprise Admin Suite:** Dinamik testlar boshqaruvi (CRUD), ko'p turdagi savol formatlari va talabalar monitoringi.
+---
+
+### 🛰️ [ DIRECTIVE 0x02 ] OPEN-SOURCE CYBER PROJECTS & SIMULATIONS
+
+```text
+┌────┬─────────────────────────────┬────────────────────────────────────┬──────────────────────────────────────────────────────────┐
+│ ID │ TARGET                      │ STACK PAYLOAD                      │ CYBER MISSION DIRECTIVE                                  │
+├────┼─────────────────────────────┼────────────────────────────────────┼──────────────────────────────────────────────────────────┤
+│ 01 │ 🚀 space-game               │ Three.js • React • TS • Vite       │ 3D kosmik simulyator: orbital mexanika va missiya boshqaruvi
+│ 02 │ 🌌 LEXORA                   │ Next.js 16 • FastAPI • SRS Leitner │ AI IELTS/CEFR: Spaced Repetition va 3D interaktiv lug'at
+│ 03 │ 🛡️ Password-Analyzer        │ Python • Entropy Engine • Crypto   │ PassGuard: Zero-Knowledge mahalliy kriptografik audit
+│ 04 │ 🤖 StudyFlow                │ Python • Telegram API • AsyncIO    │ AI-tyutor, avtomatik testlar va PDF ta'lim assistenti
+│ 05 │ 📋 attendance-bot           │ Python • SQLite/Postgres • Aiogram │ Avtomatlashtirilgan davomat va ma'lumotlar bazasi nazorati
+└────┴─────────────────────────────┴────────────────────────────────────┴──────────────────────────────────────────────────────────┘
+```
+
+- 🚀 **[space-game](https://github.com/geromari/space-game)** — Interaktiv 3D kosmik simulyator, real Kepler orbital parvozlari, ko'p bosqichli kema uchirish va sayyoralararo manevrlar.
+- 🌌 **[LEXORA](https://github.com/geromari/LEXORA)** — AI asosidagi IELTS & CEFR so'z boyligini egallash platformasi (Leitner SRS algoritmi va 3D kartochkalar).
+- 🛡️ **[Password-Analyzer](https://github.com/geromari/Password-Analyzer)** — *PassGuard*: Maxfiylikka asoslangan, ma'lumotlarni hech qayerga yubormaydigan Shannon entropiya analizatori.
+- 🤖 **[StudyFlow](https://github.com/geromari/StudyFlow)** — Talabalar uchun AI Telegram yordamchisi: aqlli testlar, PDF darsliklar tahlili va shaxsiy reja.
+- 📋 **[attendance-bot](https://github.com/geromari/attendance-bot)** — Telegram bot orqali davomatni avtomatlashtirish va SQL bazaga yozib borish tizimi.
 
 ---
 
-### 🛰️ [ 0x02 ] ACTIVE CYBER ARSENAL & OPEN-SOURCE MISSIONS
+### 🧰 [ DIRECTIVE 0x03 ] CYBER ARSENAL & SYSTEM PROTOCOLS
 
-| Directive | Project | Architecture & Weaponry | Mission Objective |
-| :---: | :--- | :--- | :--- |
-| **01** | 🚀 **[space-game](https://github.com/geromari/space-game)** | `Three.js` `React` `TypeScript` `Vite` | Interaktiv 3D kosmik simulyator, real orbital mexanika, ko'p bosqichli kema uchirish va sayyoralararo parvozlar. |
-| **02** | 🌌 **[LEXORA](https://github.com/geromari/LEXORA)** | `Next.js` `FastAPI` `TypeScript` `AI` | IELTS/CEFR uchun sun'iy intellektga asoslangan Spaced Repetition (SRS Leitner) va 3D fleshkartalar platformasi. |
-| **03** | 🛡️ **[Password-Analyzer](https://github.com/geromari/Password-Analyzer)** | `Python` `Entropy Engine` `Crypto` | *PassGuard* — Mahalliy, Zero-Knowledge arxitekturaga ega parollar xavfsizligi va Shannon entropiya tahlil vositasi. |
-| **04** | 🤖 **[StudyFlow](https://github.com/geromari/StudyFlow)** | `Python` `Telegram API` `AsyncIO` | Talabalar uchun AI-tyutor, PDF-analizator va avtomatlashtirilgan ta'lim assistenti. |
-| **05** | 📋 **[attendance-bot](https://github.com/geromari/attendance-bot)** | `Python` `SQLite/Postgres` `Aiogram` | Avtomatlashtirilgan davomat monitoringi va hisobot tizimi. |
-
----
-
-### 🧰 [ 0x03 ] CYBER ARSENAL & SYSTEM PROTOCOLS
-
-#### ⚡ Executable Languages & Compilers
-```bash
-[+] C ............ [ Low-Level Systems Programming, Memory Management, ncurses ]
-[+] Python 3.14 .. [ Automation, AI Integration, FastAPI, Data Analytics, Pandas ]
-[+] TypeScript ... [ Strict Type-Safety, Enterprise Next.js & React Systems ]
-[+] JavaScript ... [ Modern ESNext, Asynchronous Pipelines, Node.js Engines ]
-[+] Bash / Shell . [ Linux Automation, Kernel Scripting, Dotfiles Customization ]
-[+] SQL .......... [ PostgreSQL 16, Query Optimization, Database Architecture ]
+```console
+┌── [ EXECUTABLE LANGUAGES ]
+│   ├── C ................ Low-Level Systems, Pointer Arithmetic, Memory Safety, ncurses
+│   ├── Python 3.14 ...... Automation, FastAPI, AI Integration, Pandas, AsyncIO
+│   ├── TypeScript ....... Strict Compile-Time Type Enforcement, Enterprise Architecture
+│   ├── JavaScript ....... ESNext Runtime, Asynchronous Non-blocking Event Loops
+│   ├── Bash / POSIX ..... Linux Kernel Automation, Hardening Scripts, Dotfiles
+│   └── SQL .............. PostgreSQL 16 Relational Schema Design, Query Indexing
+│
+├── [ CYBER INTERFACES & 3D RENDERING ]
+│   ├── Next.js 16 ....... Server Components, Incremental Static Regeneration, App Router
+│   ├── React 19 ......... Concurrent Mode, Reactive State Primitives
+│   ├── Three.js ......... WebGL 3D Engines, Shader Math, Orbital Physics Vectors
+│   ├── Tailwind CSS v4 .. Just-in-Time Optimized Utility Engine
+│   └── Vite ............. Lightning-Fast Module Bundling & HMR
+│
+└── [ SECURITY & OPERATING MAINFRAME ]
+    ├── Arch Linux ....... Minimalist Rolling-Release Host, Custom Tiling Environment
+    ├── Docker ........... Containerized Deployment, Microservices Isolation
+    ├── PostgreSQL 16 .... High-Throughput ACID-Compliant Database Engine
+    ├── Git & GitHub ..... Version Control, Automated Continuous Integration
+    └── Cryptography ..... Zero-Knowledge Paradigms, Shannon Entropy Calculations
 ```
 
 <p align="left">
@@ -96,65 +154,47 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### 🌐 Frontend Warfare & 3D Rendering
-<p align="left">
   <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-#### ⚙️ Backend, AI & Infrastructure
-<p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram API" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-#### 🐧 Operating Environment & Hardening
-<p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="Terminal" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 📡 [ 0x04 ] CYBER TELEMETRY & ACTIVITY METRICS
+### 📡 [ DIRECTIVE 0x04 ] CYBER TELEMETRY & UPTIME MONITOR
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geromari&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geromari&theme=dark&background=050811&border=00FF66&stroke=38BDF8&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=38BDF8&sideLabels=38BDF8&sideNums=00FF66&dates=888888&border_radius=8" alt="GitHub Streak" width="92%" />
 </div>
 
 ---
 
-### 📟 [ 0x05 ] TRANSMISSION CHANNELS
+### 📟 [ DIRECTIVE 0x05 ] TRANSMISSION UPLINK
 
 ```text
-[+] SECURE CONNECTION: OPEN
-[+] PROTOCOL: TELEGRAM -> https://t.me/yashnarv1c
-[+] DIRECT DISPATCH: MAILTO -> zakariyoqarshiyev5@gmail.com
+┌── [ SECURE TRANSMISSION CHANNEL ]
+│   ├── STATUS .......... Connection Verified [TLS 1.3 / Port 443]
+│   ├── TELEGRAM ........ https://t.me/yashnarv1c
+│   └── DIRECT DISPATCH . mailto:zakariyoqarshiyev5@gmail.com
 ```
 
 <div align="center">
   <a href="https://t.me/yashnarv1c">
-    <img src="https://img.shields.io/badge/TELEGRAM-%40yashnarv1c-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TRANSMIT-TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=050811" alt="Telegram" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:zakariyoqarshiyev5@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-zakariyoqarshiyev5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/DISPATCH-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050811" alt="Email" />
   </a>
 </div>
 
 <br/>
 
-```text
-[EOF] -- SESSION TERMINATED -- SYSTEM RUNNING IN BACKGROUND
+```console
+[SYSTEM] ──> Session active in background daemon mode.
+[STATUS] ──> Kernel root privileges verified. Ready for deployment.
 ```
